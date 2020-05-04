@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Things that I have done and have loved
+  Bits of me
   
 
 # A list of keywords for your blog
@@ -49,13 +49,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
+  - title:             Design
     url:               /hydejack/
-  - title:             Hyde
+  - title:             Videos
     url:               /hyde/
-  - title:             Documentation
+  - title:             Photography
     url:               /docs/
-  - title:             About
+  - title:             Projects
     url:               /about/
 
 # Add links to the footer.
